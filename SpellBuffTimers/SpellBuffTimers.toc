@@ -1,0 +1,8 @@
+## Interface: 16001
+## Title: Spell Buff Timers
+## Notes: Shows the remaining time of your buffs as a cooldown sweep and timer text on the matching action bar button (any class).
+## Author: Stradios
+## Version: 2.1
+## IconTexture: Interface\AddOns\SpellBuffTimers\icon.tga
+## SavedVariables: SpellBuffTimersDB
+SpellBuffTimers.lua
