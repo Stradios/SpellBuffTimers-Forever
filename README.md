@@ -1,6 +1,7 @@
 <p align="center"><img src="assets/icon.png" width="128" alt="Spell Buff Timers icon"></p>
 
 # Spell Buff Timers
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/M8K423K344)
 
 A World of Warcraft add-on that shows how long your buffs have left **directly on the action bar button** of the spell that created them. Works for any class.
 
